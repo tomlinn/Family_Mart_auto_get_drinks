@@ -6,25 +6,25 @@
 
 ### To use:
 
-1. Get your personal game's link:
+## 1. Get your personal game's link:
 #### To the list of games and click hard to get links
 
 ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/to_get_link.gif?raw=true)
 
-2. keep this link in your google chrome book mark.
+## 2. keep this link in your google chrome book mark.
 (it don't need to login in all the time, so keep your links carefully)
 # ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-2.PNG?raw=true)
 
-3. put my code in Tampermonkey
+## 3. put my code in Tampermonkey
 # ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-1.PNG?raw=true)
 
-4. Done!
+## 4. Almost Done!
 
-5. if you have many accounts (like 5), it would look like this
+## 5. if you have many accounts (like 5), it would look like this
 # ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-2.PNG?raw=true)
 
-6. and you just need to open all website at one time, then you get your drinks.
+## 6. and you just need to open all website at one time, then you get your drinks.
 # ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-3.PNG?raw=true)
 
-7. result - one click to get 5 accounts' drinks 
+## 7. result - one click to get 5 accounts' drinks 
 # ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-4.gif?raw=true)
