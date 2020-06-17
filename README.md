@@ -1,5 +1,6 @@
 # [全家飲料自動抽_Family_Mart_auto_get_drinks]
-
+# Note:
+it's not a crack tool! it's just a tool to help me click a button!
 # Feature: 
  網頁載入時,立即抽獎<br>
  Auto get drinks when the website load.
