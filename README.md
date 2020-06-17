@@ -8,6 +8,7 @@
 
 1. Get your personal game's link:
 To the list of games and click hard to get links
+![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/to_get_link.gif?raw=true)
 2. keep this link in your chrome.
 (it don't need to login in all the time, so keep your links carefully)
 3. put my code in Tampermonkey
