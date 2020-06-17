@@ -1,6 +1,7 @@
 # [全家飲料自動抽_Family_Mart_auto_get_drinks]
 
-## Feature: 網頁載入時,立即抽獎 Auto get drinks when the website load.
+## Feature: 
+網頁載入時,立即抽獎 Auto get drinks when the website load.
 ### Why I need this?
 Like me, I have 5 accounts and I'm tired to login and logout each account everyday. Therefore I used a simple code to help me!!!
 
