@@ -78,4 +78,4 @@ with requests.Session() as s:
 				print(items_reward[x].split("<")[0].replace("&lt;",""))
 		print("\n")
 ```
-# ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/result_list.png?raw=true)
+# ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/result_list_1.png?raw=true)
