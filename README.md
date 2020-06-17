@@ -25,3 +25,6 @@
 
 6. and you just need to open all website at one time, then you get your drinks.
 # ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-3.PNG?raw=true)
+
+7. result - one click to get 5 accounts' drinks 
+# ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-4.gif?raw=true)
