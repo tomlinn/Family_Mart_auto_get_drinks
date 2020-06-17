@@ -1,14 +1,14 @@
 # [全家飲料自動抽_Family_Mart_auto_get_drinks]
 
 ## Feature: 
-##### 網頁載入時,立即抽獎
-##### Auto get drinks when the website load.
+ 網頁載入時,立即抽獎
+ Auto get drinks when the website load.
 
 ### 為何要用? 甚麼時候要用這個小工具呢?
 ### Why I need this?
 
-##### 使用情境: 是當你有5個帳號時,你又覺得天天抽獎很麻煩,還要每天還要切換帳號, 還要點擊抽獎按鈕時, 這讓你一天至少省了15分鐘!!!
-##### Like me, I have 5 accounts and I'm tired to login and logout each account everyday. Therefore I used a simple code to help me!!!
+ 使用情境: 是當你有5個帳號時,你又覺得天天抽獎很麻煩,還要每天還要切換帳號, 還要點擊抽獎按鈕時, 這讓你一天至少省了15分鐘!!!
+ Like me, I have 5 accounts and I'm tired to login and logout each account everyday. Therefore I used a simple code to help me!!!
 
 
 ### To use:
