@@ -9,7 +9,7 @@ Like me, I have 5 accounts and I'm tired to login and logout each account everyd
 
 ### To use:
 ## 1. 先去手機app取得你帳號的link:
-## Get your personal game's link:
+## 1. Get your personal game's link:
 
 ##### 照這下面的影片做 (活動列表/長按後按Get links)
 ##### To the list of games and click hard to get links
