@@ -1,13 +1,17 @@
 # [全家飲料自動抽_Family_Mart_auto_get_drinks]
 
 ## Feature: 網頁載入時,立即抽獎 Auto get drinks when the website load.
+### Why I need this?
+Like me, I have 5 accounts and I'm tired to login and logout each account everyday. Therefore I used a simple code to help me!!!
 
-使用情境:是當你有5個帳號時,你覺得天天抽獎很麻煩,還要切換帳號的時候
+### 為何要用? 甚麼時候要用這個小工具呢?
+ 使用情境: 是當你有5個帳號時,你又覺得天天抽獎很麻煩,還要每天還要切換帳號, 還要點擊抽獎按鈕時, 這讓你一天至少省了15分鐘!!!
 
 ### To use:
-
-## 1. Get your personal game's link:
-#### To the list of games and click hard to get links
+##### 1. 先去手機app取得你帳號的link:
+#####    Get your personal game's link:
+##### 照這下面的影片做 (活動列表/長按後按Get links)
+##### To the list of games and click hard to get links
 
 ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/to_get_link.gif?raw=true)
 
