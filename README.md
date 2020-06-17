@@ -15,6 +15,12 @@
 (it don't need to login in all the time, so keep your links carefully)
 
 3. put my code in Tampermonkey
-![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-1.PNG?raw=true)
+# ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-1.PNG?raw=true)
 
 4. Done!
+
+5. if you have many accounts (like 5), it would look like this
+# ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-2.PNG?raw=true)
+
+6. and you just need to open all website at one time, then you get your drinks.
+# ![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-3.PNG?raw=true)
