@@ -13,5 +13,8 @@
 
 2. keep this link in your google chrome book mark.
 (it don't need to login in all the time, so keep your links carefully)
+
 3. put my code in Tampermonkey
+![image](https://github.com/tomlinn/Family_Mart_auto_get_drinks/blob/master/turtorial-1.PNG?raw=true)
+
 4. Done!
